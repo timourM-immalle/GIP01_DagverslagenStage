@@ -7,3 +7,6 @@ De tweede dag zijn we begonnen met een gesprek over mijn GIP-taken. We hebben o.
 
 ## 2017-10-04
 Vandaag was mijn mentor met verlof. Ik heb de dag doorgebracht met een collega van hem. Eerst heeft hij me wat uitleg gegeven over de manier waarop de servers er worden beheerd, incl. de gebruikte software ervoor. Daarna heb ik nog wat gewerkt aan mijn case study. Hetgeen waar het meeste tijd in gekropen heeft vandaag, was de vervanging van een UPS met een 'intelligente' versie ervan. Deze heeft mijn tijdelijke mentor ook geconfigureerd en getest.
+
+## 2017-10-05
+Mijn mentor was deze voormiddag op een vergadering o.i.d.. Ik bleef dan weer bij zijn collega. De grafische kaart van een computer werkte niet meer naar behoren, maar het was al voldoende om het stof ervan af te blazen en het te herconnecteren. Verder hebben we een netwerkboot uitgevoerd. Na de middag ging mijn mentor (soort van) vergaderen met 2 mannen die de accountmanager van ETAP had gestuurd, waar ik bij mocht zijn. Dat was wel redelijk 'uniek' denk ik, maar sowieso ook leerrijk om iets meer over het bedrijfsleven te snappen en ervaren, om er als stagiair bij te mogen zijn.
