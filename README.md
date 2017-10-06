@@ -10,3 +10,9 @@ Vandaag was mijn mentor met verlof. Ik heb de dag doorgebracht met een collega v
 
 ## 2017-10-05
 Mijn mentor was deze voormiddag op een vergadering o.i.d.. Ik bleef dan weer bij zijn collega. De grafische kaart van een computer werkte niet meer naar behoren, maar het was al voldoende om het stof ervan af te blazen en het te herconnecteren. Verder hebben we een netwerkboot uitgevoerd. Na de middag ging mijn mentor (soort van) vergaderen met 2 mannen die de accountmanager van ETAP had gestuurd, waar ik bij mocht zijn. Dat was wel redelijk 'uniek' denk ik, maar sowieso ook leerrijk om iets meer over het bedrijfsleven te snappen en ervaren, om er als stagiair bij te mogen zijn.
+
+## 2017-10-06
+De laatste dag van mijn stage. Vandaag was mijn mentor wel de hele dag aanwezig. Ik heb de HDD en batterij van de 'versleten' boekhoudlaptop (zie dag 2) vervangen. Verder heb ik nog een soort handleiding voor *Zoom* samengesteld, die ik ook voor mijn case study zou kunnen gebruiken, speciaal voor gebruikers die niet goed doorhebben wat ermee moest gebeuren als ze op die manier, vanop afstand, gaan communiceren. Uiteraard hebben ze er ook de site voor nodig die ik dag 1 bewerkt heb.
+
+## Reflectie
+De stage is afgerond. het is weer aanpassen aan de school. Ik vond het echt waar een erg toffe, leerrijke ervaring met goede begeleiding en toffe collegae/mentoren. Ik heb veel bijgeleerd over de job als informaticus in een bedrijf, m.n. de systeem- en netwerkbeheerder, en ook hoe alles in de praktijk in een bedrijf in zijn werk gaat, m.n. de IT-toepassingen daar, want praktijk blijft toch steeds anders dan op school. Ik zou graag het bedrijf in kwestie en mijn mentor(en) erg voor bedanken, alsook de projectcoördinator van marketing, die mij enorm heeft geholpen met de huisstijlanalyse van het bedrijf!
